@@ -1,0 +1,47 @@
+C:\Users\fikar\source\repos\camping\camping\bin\Debug\camping.exe.config
+C:\Users\fikar\source\repos\camping\camping\bin\Debug\camping.exe
+C:\Users\fikar\source\repos\camping\camping\bin\Debug\camping.pdb
+C:\Users\fikar\source\repos\camping\camping\bin\Debug\camping.xml
+C:\Users\fikar\source\repos\camping\camping\obj\Debug\camping.vbprojAssemblyReference.cache
+C:\Users\fikar\source\repos\camping\camping\obj\Debug\camping.Resources.resources
+C:\Users\fikar\source\repos\camping\camping\obj\Debug\camping.vbproj.GenerateResource.cache
+C:\Users\fikar\source\repos\camping\camping\obj\Debug\camping.vbproj.CoreCompileInputs.cache
+C:\Users\fikar\source\repos\camping\camping\obj\Debug\camping.exe
+C:\Users\fikar\source\repos\camping\camping\obj\Debug\camping.xml
+C:\Users\fikar\source\repos\camping\camping\obj\Debug\camping.pdb
+C:\Users\fikar\source\repos\camping\camping\obj\Debug\camping.equitation.resources
+C:\Users\fikar\source\repos\camping\camping\obj\Debug\camping.principal.resources
+C:\Users\fikar\source\repos\camping\camping\obj\Debug\camping.canot.resources
+C:\Users\fikar\source\repos\camping\camping\obj\Debug\camping.escalade.resources
+C:\Users\fikar\source\repos\camping\camping\obj\Debug\camping.facture.resources
+C:\Users\fikar\source\repos\camping\camping 1\camping\bin\Debug\camping.exe.config
+C:\Users\fikar\source\repos\camping\camping 1\camping\bin\Debug\camping.exe
+C:\Users\fikar\source\repos\camping\camping 1\camping\bin\Debug\camping.pdb
+C:\Users\fikar\source\repos\camping\camping 1\camping\bin\Debug\camping.xml
+C:\Users\fikar\source\repos\camping\camping 1\camping\obj\Debug\camping.vbprojAssemblyReference.cache
+C:\Users\fikar\source\repos\camping\camping 1\camping\obj\Debug\camping.canot.resources
+C:\Users\fikar\source\repos\camping\camping 1\camping\obj\Debug\camping.equitation.resources
+C:\Users\fikar\source\repos\camping\camping 1\camping\obj\Debug\camping.escalade.resources
+C:\Users\fikar\source\repos\camping\camping 1\camping\obj\Debug\camping.facture.resources
+C:\Users\fikar\source\repos\camping\camping 1\camping\obj\Debug\camping.principal.resources
+C:\Users\fikar\source\repos\camping\camping 1\camping\obj\Debug\camping.Resources.resources
+C:\Users\fikar\source\repos\camping\camping 1\camping\obj\Debug\camping.vbproj.GenerateResource.cache
+C:\Users\fikar\source\repos\camping\camping 1\camping\obj\Debug\camping.vbproj.CoreCompileInputs.cache
+C:\Users\fikar\source\repos\camping\camping 1\camping\obj\Debug\camping.exe
+C:\Users\fikar\source\repos\camping\camping 1\camping\obj\Debug\camping.xml
+C:\Users\fikar\source\repos\camping\camping 1\camping\obj\Debug\camping.pdb
+C:\Users\fikar\source\repos\Session 1\camping\camping 1\camping\bin\Debug\camping.exe.config
+C:\Users\fikar\source\repos\Session 1\camping\camping 1\camping\bin\Debug\camping.exe
+C:\Users\fikar\source\repos\Session 1\camping\camping 1\camping\bin\Debug\camping.pdb
+C:\Users\fikar\source\repos\Session 1\camping\camping 1\camping\bin\Debug\camping.xml
+C:\Users\fikar\source\repos\Session 1\camping\camping 1\camping\obj\Debug\camping.vbprojAssemblyReference.cache
+C:\Users\fikar\source\repos\Session 1\camping\camping 1\camping\obj\Debug\camping.canot.resources
+C:\Users\fikar\source\repos\Session 1\camping\camping 1\camping\obj\Debug\camping.equitation.resources
+C:\Users\fikar\source\repos\Session 1\camping\camping 1\camping\obj\Debug\camping.escalade.resources
+C:\Users\fikar\source\repos\Session 1\camping\camping 1\camping\obj\Debug\camping.facture.resources
+C:\Users\fikar\source\repos\Session 1\camping\camping 1\camping\obj\Debug\camping.principal.resources
+C:\Users\fikar\source\repos\Session 1\camping\camping 1\camping\obj\Debug\camping.Resources.resources
+C:\Users\fikar\source\repos\Session 1\camping\camping 1\camping\obj\Debug\camping.vbproj.GenerateResource.cache
+C:\Users\fikar\source\repos\Session 1\camping\camping 1\camping\obj\Debug\camping.exe
+C:\Users\fikar\source\repos\Session 1\camping\camping 1\camping\obj\Debug\camping.xml
+C:\Users\fikar\source\repos\Session 1\camping\camping 1\camping\obj\Debug\camping.pdb
